@@ -28,5 +28,4 @@ This repository contains practical SQL scripts focused on **JOIN operations** in
 ## 💻 How to Use
 
 1. Clone the repo:
-   ```bash
    https://github.com/sudha7549/SQL-JOINS-PRACTICE
